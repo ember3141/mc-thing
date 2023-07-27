@@ -1,0 +1,361 @@
+[15:24:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:25:02] [ServerMain/INFO]: Loaded 7 recipes
+[15:25:03] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[15:25:03] [Server thread/WARN]: ****************************
+[15:25:03] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[15:25:03] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[15:25:03] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[15:25:03] [Server thread/WARN]: ****************************
+[15:25:03] [Server thread/INFO]: Loading properties
+[15:25:03] [Server thread/INFO]: This server is running Paper version git-Paper-550 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 483368e on ver/1.19.4)
+[15:25:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:25:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:25:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[15:25:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[15:25:06] [Server thread/INFO]: Default game type: SURVIVAL
+[15:25:06] [Server thread/INFO]: Generating keypair
+[15:25:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:25:06] [Server thread/INFO]: Using epoll channel type
+[15:25:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:25:06] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[15:25:07] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9
+[15:25:10] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v21.3
+[15:25:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:25:10] [Server thread/INFO]: Preparing level "gen2craft"
+[15:25:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:25:16] [Server thread/INFO]: Time elapsed: 1738 ms
+[15:25:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:25:16] [Server thread/INFO]: Time elapsed: 89 ms
+[15:25:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:25:16] [Server thread/INFO]: Time elapsed: 34 ms
+[15:25:16] [Server thread/INFO]: [Graves] Enabling Graves v4.9
+[15:25:16] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
+[15:25:18] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v21.3
+[15:25:20] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[15:25:20] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[15:25:20] [Server thread/INFO]: --------------------
+[15:25:20] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[15:25:20] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[15:25:20] [Server thread/INFO]: --------------------
+[15:25:20] [Server thread/INFO]: Starting GS4 status listener
+[15:25:20] [Server thread/INFO]: Thread Query Listener started
+[15:25:20] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[15:25:20] [Server thread/INFO]: Running delayed init tasks
+[15:25:20] [Server thread/INFO]: Done (17.332s)! For help, type "help"
+[15:25:20] [Server thread/INFO]: Timings Reset
+[15:25:50] [User Authenticator #0/INFO]: UUID of player ember_314 is 0251b991-b740-42a9-afd4-fe71a05304a5
+[15:25:53] [Server thread/INFO]: ember_314 joined the game
+[15:25:53] [Server thread/INFO]: ember_314[/127.0.0.1:38288] logged in with entity id 307 at ([gen2craft]55.85423986716075, 65.0, 16.07499998807907)
+[15:26:07] [User Authenticator #0/INFO]: UUID of player Madelevil is 1bd316aa-ffd0-429f-b1d5-b0b66ef3656c
+[15:26:07] [Server thread/INFO]: Madelevil joined the game
+[15:26:07] [Server thread/INFO]: Madelevil[/127.0.0.1:44186] logged in with entity id 375 at ([gen2craft_nether]98.39470230516139, 231.5, 216.11677716120042)
+[15:26:10] [Async Chat Thread - #1/INFO]: <ember_314> tugh
+[15:26:10] [Server thread/INFO]: Madelevil lost connection: Disconnected
+[15:26:10] [Server thread/INFO]: Madelevil left the game
+[15:26:36] [User Authenticator #0/INFO]: UUID of player Madelevil is 1bd316aa-ffd0-429f-b1d5-b0b66ef3656c
+[15:26:36] [Server thread/INFO]: Madelevil joined the game
+[15:26:36] [Server thread/INFO]: Madelevil[/127.0.0.1:54876] logged in with entity id 464 at ([gen2craft_nether]96.52977777087393, 168.71249051655687, 217.87088410465398)
+[15:26:37] [Server thread/INFO]: Madelevil lost connection: Disconnected
+[15:26:37] [Server thread/INFO]: Madelevil left the game
+[15:27:25] [Server thread/INFO]: ember_314 issued server command: /co help
+[15:27:46] [Server thread/INFO]: ember_314 issued server command: /co inspect
+[15:28:43] [Server thread/INFO]: ember_314 issued server command: /co rollback ember_314 time:2m action:block
+[15:29:12] [Server thread/INFO]: ember_314 issued server command: /co inspect
+[15:29:47] [Server thread/INFO]: ember_314 issued server command: /give @s minecraft:golden_apple 15
+[15:29:47] [Server thread/INFO]: [ember_314: Gave 15 [Golden Apple] to ember_314]
+[15:30:08] [User Authenticator #1/INFO]: UUID of player Madelevil is 1bd316aa-ffd0-429f-b1d5-b0b66ef3656c
+[15:30:08] [Server thread/INFO]: Madelevil joined the game
+[15:30:08] [Server thread/INFO]: Madelevil[/127.0.0.1:60044] logged in with entity id 901 at ([gen2craft_nether]96.52977777087393, 157.45846650956446, 217.87088410465398)
+[15:30:10] [Server thread/INFO]: Madelevil lost connection: Disconnected
+[15:30:10] [Server thread/INFO]: Madelevil left the game
+[15:30:12] [User Authenticator #1/INFO]: UUID of player Madelevil is 1bd316aa-ffd0-429f-b1d5-b0b66ef3656c
+[15:30:12] [Server thread/INFO]: Madelevil joined the game
+[15:30:12] [Server thread/INFO]: Madelevil[/127.0.0.1:60062] logged in with entity id 932 at ([gen2craft_nether]96.52977777087393, 132.42149712788125, 217.87088410465398)
+[15:30:13] [Server thread/INFO]: Madelevil fell from a high place
+[15:30:13] [Server thread/INFO]: Madelevil lost connection: Disconnected
+[15:30:13] [Server thread/INFO]: Madelevil left the game
+[15:30:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@98a98b5[id=<null>,name=Madelevil,properties={},legacy=false] (/127.0.0.1:37508) lost connection: Disconnected
+[15:30:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@791060df[id=<null>,name=Madelevil,properties={},legacy=false] (/127.0.0.1:37520) lost connection: Disconnected
+[15:30:26] [Server thread/INFO]: ember_314 issued server command: /give @s minecraft:oak_planks 64
+[15:30:26] [Server thread/INFO]: [ember_314: Gave 64 [Oak Planks] to ember_314]
+[15:30:33] [Server thread/INFO]: ember_314 issued server command: /give @s minecraft:oak_fence 64
+[15:30:33] [Server thread/INFO]: [ember_314: Gave 64 [Oak Fence] to ember_314]
+[15:30:42] [User Authenticator #1/INFO]: UUID of player Madelevil is 1bd316aa-ffd0-429f-b1d5-b0b66ef3656c
+[15:30:42] [Server thread/INFO]: Madelevil joined the game
+[15:30:42] [Server thread/INFO]: Madelevil[/127.0.0.1:60116] logged in with entity id 987 at ([gen2craft_nether]96.52977777087393, 128.0, 217.87088410465398)
+[15:31:03] [Async Chat Thread - #2/INFO]: <Madelevil> omg it looks so pretty
+[15:31:16] [Async Chat Thread - #3/INFO]: <ember_314> my bridge rollbacked
+[15:31:42] [Server thread/INFO]: Madelevil issued server command: /grave list
+[15:31:47] [Async Chat Thread - #2/INFO]: <Madelevil> wait
+[15:31:49] [Async Chat Thread - #2/INFO]: <Madelevil> u can teleport to your grave
+[15:32:04] [Async Chat Thread - #3/INFO]: <ember_314> really?
+[15:32:18] [Async Chat Thread - #2/INFO]: <Madelevil> yeah
+[15:32:33] [Async Chat Thread - #3/INFO]: <Madelevil> wait
+[15:32:39] [Async Chat Thread - #2/INFO]: <Madelevil> dont fucking tell me it rollbacked
+[15:32:55] [Async Chat Thread - #2/INFO]: <Madelevil> it di
+[15:33:01] [Async Chat Thread - #2/INFO]: <ember_314> just tell me what you need
+[15:33:20] [Async Chat Thread - #3/INFO]: <Madelevil> NAH
+[15:34:15] [Async Chat Thread - #2/INFO]: <Madelevil> idk
+[15:34:18] [Async Chat Thread - #2/INFO]: <ember_314> hmm maybe I'll get a server for a month
+[15:34:22] [Async Chat Thread - #2/INFO]: <Madelevil> yeah
+[15:34:26] [Async Chat Thread - #2/INFO]: <ember_314> and after that people need to fund me
+[15:34:29] [Async Chat Thread - #2/INFO]: <Madelevil> google colab is not a good server host
+[15:34:30] [Async Chat Thread - #3/INFO]: <Madelevil> at all
+[15:34:33] [Async Chat Thread - #2/INFO]: <ember_314> twell
+[15:34:34] [Async Chat Thread - #2/INFO]: <ember_314> well
+[15:34:38] [Async Chat Thread - #3/INFO]: <ember_314> the specs are great
+[15:34:42] [Async Chat Thread - #3/INFO]: <ember_314> and the network is good
+[15:34:52] [Async Chat Thread - #3/INFO]: <ember_314> just its like running in a docker thing with weird controls
+[15:35:01] [Async Chat Thread - #3/INFO]: <ember_314> and stuff randomly trigger it to shutdown
+[15:35:16] [Async Chat Thread - #3/INFO]: <ember_314> like this has a t4 gpu
+[15:35:22] [Async Chat Thread - #3/INFO]: <ember_314> and like 26 gb ram
+[15:35:53] [Async Chat Thread - #2/INFO]: <Madelevil> i lost like 2 stacks of iron i think
+[15:35:55] [Async Chat Thread - #3/INFO]: <Madelevil> and some magma
+[15:36:02] [Async Chat Thread - #2/INFO]: <ember_314> want me to give it to you?
+[15:36:05] [Async Chat Thread - #3/INFO]: <Madelevil> yea
+[15:36:12] [Async Chat Thread - #2/INFO]: <ember_314> ok one sec I need to log into op mode
+[15:36:15] [Server thread/INFO]: ember_314 lost connection: Disconnected
+[15:36:15] [Server thread/INFO]: ember_314 left the game
+[15:36:25] [User Authenticator #2/INFO]: UUID of player ember_314 is 0251b991-b740-42a9-afd4-fe71a05304a5
+[15:36:25] [Server thread/INFO]: ember_314 joined the game
+[15:36:25] [Server thread/INFO]: ember_314[/127.0.0.1:53678] logged in with entity id 2149 at ([gen2craft]43.09947079996479, 72.5, 23.145810921454512)
+[15:36:27] [Async Chat Thread - #3/INFO]: <ember_314> ok
+[15:36:32] [Async Chat Thread - #2/INFO]: <ember_314> hmm
+[15:36:36] [Async Chat Thread - #2/INFO]: <ember_314> can't do command
+[15:36:38] [Async Chat Thread - #3/INFO]: <ember_314> one sec
+[15:36:40] [Server thread/INFO]: ember_314 lost connection: Disconnected
+[15:36:40] [Server thread/INFO]: ember_314 left the game
+[15:36:46] [User Authenticator #2/INFO]: UUID of player ember_314 is 0251b991-b740-42a9-afd4-fe71a05304a5
+[15:36:46] [Server thread/INFO]: ember_314 joined the game
+[15:36:46] [Server thread/INFO]: ember_314[/127.0.0.1:47652] logged in with entity id 2212 at ([gen2craft]43.09947079996479, 72.5, 23.145810921454512)
+[15:36:50] [Async Chat Thread - #3/INFO]: <ember_314> ok
+[15:36:58] [Server thread/INFO]: ember_314 issued server command: /give Madelevil minecraft:frog_spawn_egg
+[15:36:58] [Server thread/INFO]: [ember_314: Gave 1 [Frog Spawn Egg] to Madelevil]
+[15:37:00] [Async Chat Thread - #3/INFO]: <ember_314> did that work?
+[15:37:07] [Async Chat Thread - #3/INFO]: <ember_314> did you get it
+[15:37:17] [Async Chat Thread - #3/INFO]: <Madelevil> yes i got a silli forg
+[15:37:21] [Async Chat Thread - #2/INFO]: <ember_314> good :)
+[15:37:23] [Async Chat Thread - #3/INFO]: <Madelevil> hi forg
+[15:38:07] [Async Chat Thread - #4/INFO]: <ember_314> wait
+[15:38:15] [Server thread/INFO]: ember_314 issued server command: /give @s minecraft:iron_ingot
+[15:38:15] [Server thread/INFO]: [ember_314: Gave 1 [Iron Ingot] to ember_314]
+[15:38:23] [Server thread/INFO]: ember_314 issued server command: /give Madelevil minecraft:iron_ingot 128
+[15:38:23] [Server thread/INFO]: [ember_314: Gave 128 [Iron Ingot] to Madelevil]
+[15:38:40] [Server thread/INFO]: ember_314 issued server command: /give Madelevil minecraft:magma_block 128
+[15:38:40] [Server thread/INFO]: [ember_314: Gave 128 [Magma Block] to Madelevil]
+[15:38:43] [Async Chat Thread - #4/INFO]: <ember_314> good?
+[15:38:52] [Async Chat Thread - #4/INFO]: <Madelevil> maybe a bit more of magma
+[15:39:12] [Server thread/INFO]: ember_314 issued server command: /give Madelevil minecraft:magma_block 192
+[15:39:12] [Server thread/INFO]: [ember_314: Gave 192 [Magma Block] to Madelevil]
+[15:39:36] [Server thread/INFO]: ember_314 issued server command: /give @s minecraft:frog_spawn_egg
+[15:39:36] [Server thread/INFO]: [ember_314: Gave 1 [Frog Spawn Egg] to ember_314]
+[15:39:54] [Async Chat Thread - #5/INFO]: <Madelevil> wait i need 562 more
+[15:39:55] [Async Chat Thread - #6/INFO]: <Madelevil> thats it
+[15:40:02] [Async Chat Thread - #6/INFO]: <Madelevil> i checked from the schematicx
+[15:40:12] [Server thread/INFO]: ember_314 issued server command: /give Madelevil minecraft:magma_block 561
+[15:40:12] [Server thread/INFO]: [ember_314: Gave 561 [Magma Block] to Madelevil]
+[15:40:22] [Server thread/INFO]: ember_314 issued server command: /give Madelevil minecraft:magma_block
+[15:40:22] [Server thread/INFO]: [ember_314: Gave 1 [Magma Block] to Madelevil]
+[15:40:50] [Async Chat Thread - #6/INFO]: <ember_314> Ill start looking for cheap hosting with decent specs
+[15:40:52] [Async Chat Thread - #5/INFO]: <Madelevil> alright thats everything
+[15:40:54] [Async Chat Thread - #5/INFO]: <Madelevil> ty
+[15:41:05] [Async Chat Thread - #6/INFO]: <ember_314> it needs to handle ~5 people
+[15:41:21] [Server thread/INFO]: ember_314 issued server command: /give @s minecraft:oak_fence 64
+[15:41:21] [Server thread/INFO]: [ember_314: Gave 64 [Oak Fence] to ember_314]
+[15:41:59] [Async Chat Thread - #5/INFO]: <ember_314> hmm thats odd only half my bridge got rollbacked
+[15:42:07] [Server thread/INFO]: ember_314 issued server command: /give @s minecraft:lantern 28
+[15:42:07] [Server thread/INFO]: [ember_314: Gave 28 [Lantern] to ember_314]
+[15:43:40] [Async Chat Thread - #7/INFO]: <ember_314> ok one sec I'm gonna go look at servers
+[15:46:08] [Server thread/INFO]: ember_314 lost connection: Timed out
+[15:46:08] [Server thread/INFO]: ember_314 left the game
+[15:50:08] [Async Chat Thread - #10/INFO]: <Madelevil> i wana give him a nam
+[15:54:04] [Server thread/INFO]: Madelevil lost connection: Disconnected
+[15:54:04] [Server thread/INFO]: Madelevil left the game
+[15:54:06] [User Authenticator #3/INFO]: UUID of player Madelevil is 1bd316aa-ffd0-429f-b1d5-b0b66ef3656c
+[15:54:06] [Server thread/INFO]: Madelevil joined the game
+[15:54:06] [Server thread/INFO]: Madelevil[/127.0.0.1:34380] logged in with entity id 4995 at ([gen2craft_nether]95.03289452817643, 136.70934104754548, 228.65897778363234)
+[15:54:07] [Server thread/INFO]: Madelevil fell from a high place
+[15:54:59] [Server thread/INFO]: Madelevil issued server command: /grave list
+[15:55:25] [Server thread/INFO]: Madelevil issued server command: /graves list
+[15:55:27] [Server thread/INFO]: Madelevil issued server command: /grave gui
+[16:02:42] [Server thread/INFO]: Madelevil lost connection: Disconnected
+[16:02:42] [Server thread/INFO]: Madelevil left the game
+[16:02:44] [User Authenticator #4/INFO]: UUID of player Madelevil is 1bd316aa-ffd0-429f-b1d5-b0b66ef3656c
+[16:02:44] [Server thread/INFO]: Madelevil joined the game
+[16:02:44] [Server thread/INFO]: Madelevil[/127.0.0.1:42346] logged in with entity id 5849 at ([gen2craft_nether]114.35014297267547, 231.5, 220.51982877572257)
+[16:06:58] [Server thread/INFO]: Madelevil fell off a ladder
+[16:07:11] [Server thread/INFO]: Madelevil issued server command: /grave list
+[16:17:36] [Server thread/INFO]: Madelevil fell off a ladder
+[16:18:28] [Server thread/INFO]: Madelevil issued server command: /grave list
+[16:25:48] [User Authenticator #5/INFO]: UUID of player Muninn1MC is f4bf0cbd-1ab4-4172-9723-5333cfbc01cb
+[16:25:49] [Server thread/INFO]: Muninn1MC joined the game
+[16:25:49] [Server thread/INFO]: Muninn1MC[/127.0.0.1:60812] logged in with entity id 7529 at ([gen2craft]41.19196875006344, 65.0, 26.360474817759023)
+[16:25:56] [Async Chat Thread - #13/INFO]: <Madelevil> hey Muninn1MC
+[16:25:58] [Async Chat Thread - #14/INFO]: <Muninn1MC> hey
+[16:26:00] [Async Chat Thread - #14/INFO]: <Madelevil> im almost done with the gold farm
+[16:26:05] [Async Chat Thread - #14/INFO]: <Muninn1MC> nice
+[16:27:08] [Async Chat Thread - #15/INFO]: <Madelevil> its finished
+[16:27:08] [Async Chat Thread - #15/INFO]: <Madelevil> yay
+[16:27:26] [Async Chat Thread - #15/INFO]: <Muninn1MC> do you have a portal out?
+[16:27:29] [Async Chat Thread - #15/INFO]: <Muninn1MC> where is it
+[16:27:51] [Async Chat Thread - #15/INFO]: <Madelevil> yeah i have a portal
+[16:28:01] [Async Chat Thread - #15/INFO]: <Madelevil> its at 748 1756
+[16:28:06] [Async Chat Thread - #15/INFO]: <Madelevil> in overworld
+[16:28:17] [Async Chat Thread - #16/INFO]: <Madelevil> HUH
+[16:28:20] [Async Chat Thread - #15/INFO]: <Madelevil> who made a portal
+[16:28:36] [Async Chat Thread - #16/INFO]: <Muninn1MC> wdym?
+[16:28:51] [Async Chat Thread - #15/INFO]: <Madelevil> great a new portal was linked
+[16:28:56] [Async Chat Thread - #15/INFO]: <Madelevil> so i have to get another pearl
+[16:30:24] [Async Chat Thread - #17/INFO]: <Madelevil> ima go back to base tbh
+[16:30:36] [Async Chat Thread - #18/INFO]: <Madelevil> ima get the bedrock break
+[16:30:37] [Async Chat Thread - #18/INFO]: <Muninn1MC> idk if you've been back to spawn since yesterday
+[16:30:41] [Async Chat Thread - #18/INFO]: <Muninn1MC> its a complete shitshow lol
+[16:31:10] [User Authenticator #6/INFO]: UUID of player ember_314 is 0251b991-b740-42a9-afd4-fe71a05304a5
+[16:31:10] [Server thread/INFO]: ember_314 joined the game
+[16:31:10] [Server thread/INFO]: ember_314[/127.0.0.1:60894] logged in with entity id 9078 at ([gen2craft]65.4014352075437, 72.0625, 48.19738171583921)
+[16:31:11] [Server thread/INFO]: Madelevil was slain by Piglin
+[16:31:18] [Async Chat Thread - #18/INFO]: <ember_314> hey guys
+[16:31:21] [Async Chat Thread - #18/INFO]: <ember_314> im getting a proper server
+[16:31:27] [Async Chat Thread - #18/INFO]: <ember_314> ellie i sent you some stuff to look at
+[16:33:35] [Server thread/INFO]: Madelevil issued server command: /grave list
+[16:33:58] [Server thread/INFO]: Madelevil was shot by Skeleton
+[16:34:01] [Server thread/INFO]: Madelevil issued server command: /grave list
+[16:34:17] [Async Chat Thread - #19/INFO]: <ember_314> ellie the current server is less than 1gb
+[16:34:27] [Async Chat Thread - #20/INFO]: <ember_314> even with backups
+[16:34:32] [Async Chat Thread - #20/INFO]: <ember_314> theres not gonna be a storage issue
+[16:35:09] [Server thread/INFO]: Madelevil was shot by Skeleton
+[16:35:14] [Server thread/INFO]: Madelevil issued server command: /grave list
+[16:36:01] [Async Chat Thread - #21/INFO]: <Madelevil> trans bed
+[16:36:09] [Async Chat Thread - #22/INFO]: <ember_314> I'm gonna get it
+[16:36:31] [Server thread/INFO]: Madelevil issued server command: /grave list
+[16:36:49] [Async Chat Thread - #21/INFO]: <Madelevil> bruh
+[16:36:52] [Async Chat Thread - #21/INFO]: <Madelevil> thers a zombie
+[16:36:55] [Async Chat Thread - #21/INFO]: <Madelevil> nvm its dying
+[16:37:20] [Async Chat Thread - #21/INFO]: <Muninn1MC> i would like to punch whoever put giant berry patches without walkways
+[16:37:21] [Async Chat Thread - #21/INFO]: <Madelevil> i barely have any gear
+[16:37:25] [Async Chat Thread - #21/INFO]: <Madelevil> or food mfw
+[16:37:34] [Async Chat Thread - #21/INFO]: <Muninn1MC> just take berries
+[16:38:45] [Async Chat Thread - #23/INFO]: <Madelevil> ima make a trans flag
+[16:38:49] [Async Chat Thread - #23/INFO]: <Madelevil> w/wool
+[16:39:01] [Async Chat Thread - #24/INFO]: <ember_314> just bought the server
+[16:39:10] [Async Chat Thread - #24/INFO]: <ember_314> I'll set it up and connect it to our domain
+[16:39:20] [Async Chat Thread - #23/INFO]: <ember_314> and I'll transfer world data
+[16:44:05] [Server thread/INFO]: ember_314 lost connection: Disconnected
+[16:44:05] [Server thread/INFO]: ember_314 left the game
+[16:47:58] [Async Chat Thread - #25/INFO]: <Muninn1MC> i think people forgot you're supposed to be able to walk around
+[16:48:16] [Async Chat Thread - #25/INFO]: <Muninn1MC> its like a parkour course out here
+[16:50:09] [Server thread/INFO]: Muninn1MC has made the advancement [Ol' Betsy]
+[16:54:45] [Async Chat Thread - #27/INFO]: <Madelevil> do not press the button at 50 10
+[16:54:51] [Async Chat Thread - #28/INFO]: <Muninn1MC> yeah theres tnt
+[16:54:52] [Async Chat Thread - #28/INFO]: <Muninn1MC> i saw
+[16:54:55] [Async Chat Thread - #28/INFO]: <Madelevil> aww
+[16:54:57] [Async Chat Thread - #28/INFO]: <Madelevil> ima press it
+[16:54:59] [Async Chat Thread - #28/INFO]: <Madelevil> pressed
+[16:54:59] [Async Chat Thread - #28/INFO]: <Muninn1MC> ok
+[16:55:01] [Async Chat Thread - #27/INFO]: <Madelevil> why do i hear tnt?
+[16:55:05] [Async Chat Thread - #27/INFO]: <Madelevil> jk'
+[16:55:16] [Async Chat Thread - #27/INFO]: <Muninn1MC> lol im in the nether
+[16:59:36] [Async Chat Thread - #29/INFO]: <Madelevil> blep
+[17:11:38] [Async Chat Thread - #31/INFO]: <Muninn1MC> do you need pearls to fix the portal by gold farm?
+[17:11:52] [Async Chat Thread - #32/INFO]: <Muninn1MC> or are you gonna break the bedrock
+[17:12:35] [Async Chat Thread - #31/INFO]: <Madelevil> muinn
+[17:12:36] [Async Chat Thread - #31/INFO]: <Muninn1MC> cuz if you need pearls i have a couple
+[17:12:40] [Async Chat Thread - #31/INFO]: <Madelevil> alright ima break the bedrock
+[17:12:51] [Async Chat Thread - #31/INFO]: <Madelevil> after ember enables bedrock breaking
+[17:12:51] [Async Chat Thread - #31/INFO]: <Muninn1MC> ok
+[17:12:56] [Async Chat Thread - #32/INFO]: <Muninn1MC> ahhh
+[17:14:35] [User Authenticator #7/INFO]: UUID of player Adamtk6 is 2695d312-3b22-4c7a-b4be-5545d6ba2061
+[17:14:35] [Server thread/INFO]: Adamtk6 joined the game
+[17:14:35] [Server thread/INFO]: Adamtk6[/127.0.0.1:43074] logged in with entity id 22470 at ([gen2craft]-22.5, 74.0, 15.5)
+[17:14:40] [Async Chat Thread - #33/INFO]: <Adamtk6> penis
+[17:14:42] [Async Chat Thread - #34/INFO]: <Muninn1MC> hey
+[17:14:43] [Async Chat Thread - #33/INFO]: <Madelevil> penis
+[17:14:48] [Async Chat Thread - #33/INFO]: <Madelevil> hello adam
+[17:14:52] [Async Chat Thread - #34/INFO]: <Adamtk6> halo
+[17:14:52] [Async Chat Thread - #33/INFO]: <Muninn1MC> penis
+[17:14:59] [Async Chat Thread - #33/INFO]: <Madelevil> who r u?
+[17:15:05] [Async Chat Thread - #33/INFO]: <Adamtk6> @A damn
+[17:15:15] [Server thread/INFO]: Adamtk6 has made the advancement [Monster Hunter]
+[17:15:23] [Async Chat Thread - #34/INFO]: <Muninn1MC> adam is a name on the server
+[17:15:30] [Async Chat Thread - #34/INFO]: <Muninn1MC> assumedly that guy
+[17:15:36] [Async Chat Thread - #34/INFO]: <Adamtk6> there are 2 i think
+[17:15:47] [Async Chat Thread - #33/INFO]: <Adamtk6> got a minecraft pfp
+[17:15:58] [Async Chat Thread - #33/INFO]: <Adamtk6> of a windmil
+[17:16:33] [Async Chat Thread - #33/INFO]: <Muninn1MC> GRAGH I HATE SWEET BERRIES AND WHOEVER PLASTERED THEM AROUND THE HOUSE
+[17:16:48] [Server thread/INFO]: Madelevil lost connection: Disconnected
+[17:16:48] [Async Chat Thread - #34/INFO]: <Adamtk6> you just got berried
+[17:16:48] [Server thread/INFO]: Madelevil left the game
+[17:16:58] [Async Chat Thread - #33/INFO]: <Muninn1MC> theyre everywhere
+[17:17:15] [Async Chat Thread - #34/INFO]: <Muninn1MC> this place is already barely walkable
+[17:17:21] [Async Chat Thread - #33/INFO]: <Muninn1MC> doesnt need berries on top of it
+[17:17:29] [Async Chat Thread - #33/INFO]: <Adamtk6> its like any american city
+[17:19:18] [Async Chat Thread - #36/INFO]: <Muninn1MC> it really isn
+[17:19:28] [Async Chat Thread - #35/INFO]: <Muninn1MC> isn't because there's no american flags anywhere
+[17:19:32] [Async Chat Thread - #35/INFO]: <Adamtk6> real
+[17:19:36] [Async Chat Thread - #35/INFO]: <Adamtk6> i should build onme
+[17:19:43] [Async Chat Thread - #36/INFO]: <Muninn1MC> i was thinking that too
+[17:19:52] [Async Chat Thread - #35/INFO]: <Muninn1MC> but in true american pride it needs to be bigger than all the other flags
+[17:20:07] [Async Chat Thread - #35/INFO]: <Muninn1MC> and the pride flag is pretty big
+[17:20:20] [Async Chat Thread - #35/INFO]: <Adamtk6> i need to make a large missile silo
+[17:20:31] [Async Chat Thread - #35/INFO]: <Muninn1MC> i need to bomb middle eastern children..
+[17:20:36] [Async Chat Thread - #35/INFO]: <Adamtk6> real
+[17:20:46] [Server thread/INFO]: Adamtk6 has made the advancement [Stone Age]
+[17:20:47] [Async Chat Thread - #35/INFO]: <Muninn1MC> sorry the american ghost takes over sometimes
+[17:21:00] [Async Chat Thread - #35/INFO]: <Adamtk6> im not even american :100:
+[17:22:06] [User Authenticator #8/INFO]: UUID of player ember_314 is 0251b991-b740-42a9-afd4-fe71a05304a5
+[17:22:06] [Server thread/INFO]: ember_314 joined the game
+[17:22:06] [Server thread/INFO]: ember_314[/127.0.0.1:34732] logged in with entity id 24109 at ([gen2craft]56.112724133689845, 72.0, 42.77565272568713)
+[17:22:16] [Async Chat Thread - #37/INFO]: <ember_314> heyy :)
+[17:22:18] [Server thread/INFO]: Adamtk6 has made the advancement [Getting an Upgrade]
+[17:22:28] [Async Chat Thread - #37/INFO]: <ember_314> I'll need to restart the server in a bit so I can load up the new server
+[17:22:32] [Async Chat Thread - #37/INFO]: <ember_314> t
+[17:22:36] [Async Chat Thread - #38/INFO]: <Muninn1MC> OK
+[17:22:39] [Async Chat Thread - #37/INFO]: <ember_314> dw I'll transfer world progress
+[17:22:52] [Async Chat Thread - #37/INFO]: <ember_314> oh
+[17:22:52] [Async Chat Thread - #37/INFO]: <Adamtk6> hmm
+[17:22:57] [Async Chat Thread - #37/INFO]: <ember_314> wait I need you guys to get off
+[17:23:00] [Async Chat Thread - #37/INFO]: <ember_314> is that ok?
+[17:23:01] [Async Chat Thread - #37/INFO]: <Adamtk6> am gone
+[17:23:04] [Server thread/INFO]: Adamtk6 lost connection: Disconnected
+[17:23:04] [Server thread/INFO]: Adamtk6 left the game
+[17:23:07] [Async Chat Thread - #37/INFO]: <Muninn1MC> sure 1 sec
+[17:23:14] [Async Chat Thread - #37/INFO]: <Muninn1MC> just finishing what im doin real quick
+[17:23:18] [Async Chat Thread - #38/INFO]: <ember_314> kk :)
+[17:23:29] [Async Chat Thread - #38/INFO]: <Muninn1MC> alright
+[17:23:30] [Server thread/INFO]: Muninn1MC lost connection: Disconnected
+[17:23:30] [Server thread/INFO]: Muninn1MC left the game
+[17:23:42] [Server thread/INFO]: ember_314 issued server command: /stop
+[17:23:42] [Server thread/INFO]: [ember_314: Stopping the server]
+[17:23:42] [Server thread/INFO]: Stopping server
+[17:23:42] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v21.3
+[17:23:42] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[17:23:43] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v21.3
+[17:23:43] [Server thread/INFO]: [Graves] Disabling Graves v4.9
+[17:23:43] [Server thread/INFO]: Saving players
+[17:23:43] [Server thread/INFO]: ember_314 lost connection: Server closed
+[17:23:43] [Server thread/INFO]: ember_314 left the game
+[17:23:43] [Server thread/INFO]: Saving worlds
+[17:23:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[gen2craft]'/minecraft:overworld
+[17:23:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'gen2craft'
+[17:23:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'gen2craft'
+[17:23:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'gen2craft'
+[17:23:44] [Server thread/INFO]: [ChunkHolderManager] Saved 276 block chunks, 504 entity chunks, 1 poi chunks in world 'gen2craft' in 0.83s
+[17:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (gen2craft): All chunks are saved
+[17:23:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[gen2craft_nether]'/minecraft:the_nether
+[17:23:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'gen2craft_nether'
+[17:23:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'gen2craft_nether'
+[17:23:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'gen2craft_nether'
+[17:23:44] [Server thread/INFO]: [ChunkHolderManager] Saved 17 block chunks, 113 entity chunks, 0 poi chunks in world 'gen2craft_nether' in 0.11s
+[17:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:23:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[gen2craft_the_end]'/minecraft:the_end
+[17:23:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'gen2craft_the_end'
+[17:23:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'gen2craft_the_end'
+[17:23:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'gen2craft_the_end'
+[17:23:44] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'gen2craft_the_end' in 0.03s
+[17:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:23:44] [Server thread/INFO]: Flushing Chunk IO
+[17:23:44] [Server thread/INFO]: Closing Thread Pool
+[17:23:44] [Server thread/INFO]: Closing Server
